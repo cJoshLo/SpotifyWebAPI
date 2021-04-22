@@ -7,7 +7,7 @@
 */
 
 body{
-    background-color: #c0c781ff;
+    background-color: rgb(2, 48, 17);
 }
 
 #tokenSection{
@@ -20,7 +20,7 @@ body{
 
 .container{
     padding: 20px;    
-    background-color: #78bc61ff;
+    background-color: rgb(120, 252, 77);
 }
 
 #albumImage{
